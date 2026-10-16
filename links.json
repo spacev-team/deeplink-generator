@@ -713,7 +713,7 @@
   "screen": "검색 결과 화면",
   "type": "sk",
   "scheme": "spacev33m2://app?type=sk&keyword=${검색어}",
-  "pcUrl": "",
+  "pcUrl": "https://#{domain}/guest/room?keyword=${검색어}",
   "appLink": "https://#{domain}/deeplink/search?keyword=${검색어}",
   "bridge": "",
   "vars": [
